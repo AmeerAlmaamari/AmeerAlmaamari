@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ameer</h1>
-<h3 align="center">An enthusiast AI developer dfkgjfdlkjgdlgjfdlkgjkdlkgjdlgjdlgjdlgjldjgldgjfldkjgflfdjgfldjglfdjgfldjglkdfjgkldfjgd</h3>
+<h3 align="center">An enthusiast AI developer/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameeralmaamari&label=Profile%20views&color=0e75b6&style=flat" alt="ameeralmaamari" /> </p>
 
