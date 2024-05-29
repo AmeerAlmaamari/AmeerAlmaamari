@@ -1,4 +1,4 @@
-Hi there! I'm Amir 👋
+# Hi there! I'm Amir 👋
 🌟 Master's Student in AI Engineering
 🚀 Passionate about exploring and developing cutting-edge ML/DL use cases
 🌐 Enthusiast of data, especially when it comes to BIG DATA!
