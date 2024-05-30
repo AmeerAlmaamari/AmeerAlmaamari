@@ -28,14 +28,14 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
 ## Reach out to me 🤝
 
 <div align="center">
-  <a href="mailto:ameer220@gmail.com" target="_blank" style="text-decoration: none">
+  <a href="mailto:ameer220@gmail.com" target="_blank" style="text-decoration: none" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge" />
 </a>
   
   <a href="https://www.linkedin.com/in/a-almaamari/" target="_blank" rel="noopener noreferrer">
     <img alt="linkedin badge" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://medium.com/@ameeralmaamari" target="_blank">
+  <a href="https://medium.com/@ameeralmaamari" target="_blank" rel="noopener noreferrer">
     <img alt="medium badge" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
 </div>
