@@ -15,11 +15,11 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
   <a href="https://opensource.com/resources/what-open-source" target="_blank">
     <img alt="open source badge" src="https://img.shields.io/badge/Open%20Source-000000?style=for-the-badge&logo=open-source-initiative&logoColor=white">
   </a>
-  <a href="https://www.reddit.com/" target="_blank">
-    <img alt="Reddit badge" src="https://img.shields.io/badge/Reddit%20Fan-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-  </a>
   <a href="https://online.stanford.edu/what-is-entrepreneurship" target="_blank">
     <img alt="Entrepreneurship badge" src="https://img.shields.io/badge/Entrepreneur-33b57f?style=for-the-badge&logo=entrepreneur&logoColor=white">
+  </a>
+  <a href="https://www.reddit.com/" target="_blank">
+    <img alt="Reddit badge" src="https://img.shields.io/badge/Reddit%20Fan-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
   </a>
 </div>
 
@@ -72,6 +72,20 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
       <img src="https://leetcard.jacoblin.cool/AmeerAlmaamari?ext=heatmap&radius=20&cache=0"/>
     </td>
   </tr>
+
+  <tr style="border: none;">
+    <td width="50%" align="left" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=AmeerAlmaamari&theme=dracula&border_radius=10&hide_border=true&count_private=true&show_icons=true" alt="AmeerAlmaamari" />
+    </td>
+    <td width="50%" align="right" style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=AmeerAlmaamari&border_radius=10&hide_border=true&theme=dracula" alt="GitHub Streak"/>
+    </td>
+  </tr>
+
+  <tr style="border: none;">
+    <td colspan="2" align="left" style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmeerAlmaamari&theme=dracula"/>
+    </td>
+  </tr>
 </table>
-<br />
   
