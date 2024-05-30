@@ -68,9 +68,6 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
     <td width="50%" align="left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerAlmaamari&theme=dracula&border_radius=10&hide_border=true&count_private=true&layout=compact&size_weight=1&count_weight=1&hide=html" alt="AmeerAlmaamari" />
     </td>
-    <td width="50%" align="right">
-      <img src="https://leetcard.jacoblin.cool/AmeerAlmaamari?ext=heatmap&radius=20&cache=0"/>
-    </td>
   </tr>
 
   <tr style="border: none;">
