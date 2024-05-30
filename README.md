@@ -8,15 +8,18 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
 ## About me 👨🏻‍💻
 
 <div align="center">
-  <a href="mailto:ameer220@gmail.com" target="_blank" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge" />
+  <a href="https://www.authorityhacker.com/how-to-start-tech-blog/" target="_blank" style="text-decoration: none">
+  <img src="https://img.shields.io/badge/Tech%20Blogger-007ACC?style=for-the-badge&logo=dev.to&logoColor=white" alt="tech blogger badge" />
 </a>
   
-  <a href="https://www.linkedin.com/in/a-almaamari/" target="_blank">
-    <img alt="linkedin badge" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://opensource.com/resources/what-open-source" target="_blank">
+    <img alt="open source badge" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge">
   </a>
-  <a href="https://medium.com/@ameeralmaamari" target="_blank">
-    <img alt="medium badge" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  <a href="https://www.reddit.com/" target="_blank">
+    <img alt="Reddit badge" src="https://img.shields.io/badge/Reddit%20Fan-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+  </a>
+  <a href="https://online.stanford.edu/what-is-entrepreneurship" target="_blank">
+    <img alt="Entrepreneurship badge" src="https://img.shields.io/badge/Entrepreneur-33b57f?style=for-the-badge&logo=entrepreneur&logoColor=white">
   </a>
 </div>
 
