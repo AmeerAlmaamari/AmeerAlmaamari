@@ -66,7 +66,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
 <table align="center">
   <tr style="border: none;">
     <td colspan="2" align="left" style="border: none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hetari&theme=dracula"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmeerAlmaamari&theme=dracula"/>
     </td>
   </tr>
 
