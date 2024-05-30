@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
 </a>
   
   <a href="https://opensource.com/resources/what-open-source" target="_blank">
-    <img alt="open source badge" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge">
+    <img alt="open source badge" src="https://img.shields.io/badge/Open%20Source-000000?style=for-the-badge&logo=open-source-initiative&logoColor=white">
   </a>
   <a href="https://www.reddit.com/" target="_blank">
     <img alt="Reddit badge" src="https://img.shields.io/badge/Reddit%20Fan-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
