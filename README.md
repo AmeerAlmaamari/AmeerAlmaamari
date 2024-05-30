@@ -57,4 +57,18 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS badge">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap badge">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT badge">
+
+  ## Stats 📊
+
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerAlmaamari&theme=dracula&border_radius=10&hide_border=true&count_private=true&layout=compact&size_weight=1&count_weight=1&hide=html" alt="AmeerAlmaamari" />
+    </td>
+    <td width="50%" align="right">
+      <img src="https://leetcard.jacoblin.cool/AmeerAlmaamari?ext=heatmap&radius=20&cache=0"/>
+    </td>
+  </tr>
+</table>
+<br />
   
