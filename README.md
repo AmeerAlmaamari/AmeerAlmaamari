@@ -32,7 +32,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge" />
 </a>
   
-  <a href="https://www.linkedin.com/in/a-almaamari/" target="_blank">
+  <a href="https://www.linkedin.com/in/a-almaamari/" target="_blank" rel="noopener noreferrer>
     <img alt="linkedin badge" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://medium.com/@ameeralmaamari" target="_blank">
