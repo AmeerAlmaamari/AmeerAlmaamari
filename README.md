@@ -64,14 +64,9 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
   ## Stats 📊
 
 <table align="center">
-  <!-- <tr border="none">
+  <tr border="none">
     <td width="50%" align="left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerAlmaamari&theme=dracula&border_radius=10&hide_border=true&count_private=true&layout=compact&size_weight=1&count_weight=1&hide=html" alt="AmeerAlmaamari" />
-    </td>
-  </tr> -->
-  <tr style="border: none;">
-    <td colspan="2" align="center" style="border: none;">
-      <img src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=AmeerAlmaamari&theme=dracula&border_radius=10&hide_border=true&count_private=true&layout=compact&size_weight=1&count_weight=1&hide=html"/>
     </td>
   </tr>
 
@@ -85,7 +80,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
   </tr>
 
   <tr style="border: none;">
-    <td colspan="2" align="center" style="border: none;">
+    <td colspan="2" align="left" style="border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmeerAlmaamari&theme=dracula"/>
     </td>
   </tr>
