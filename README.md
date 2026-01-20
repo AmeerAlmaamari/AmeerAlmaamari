@@ -83,7 +83,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
 
 ## My Contributions 
 
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://github.com/AmeerAlmaamari/AmeerAlmaamari/blob/output/github-contribution-grid-snake-dark.svg"
@@ -96,5 +96,5 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
     alt="GitHub contribution grid snake animation"
     src="https://raw.githubusercontent.com/AmeerAlmaamari/AmeerAlmaamari/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture> -->
   
