@@ -23,12 +23,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
   </a>
 </div>
 
-- 🔭 I’m currently working on an AI solution to enhance data privacy in governmental procedures
-- 🌱 I’m currently learning Laravel
-- 💬 Ask me about machine learning, big data analytics, and business analysis.
-- ⚡ A Fact: I am enthusiast about technical projects and products management.
-
-## Reach out to me 🤝
+## Reach out to me 
 
 <div align="center">
   <a href="mailto:ameer220@gmail.com" target="_blank" style="text-decoration: none" rel="noopener noreferrer">
@@ -43,7 +38,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
   </a>
 </div>
 
-## Tech Stack 🪄
+## Tech Stack 
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python badge">
@@ -61,7 +56,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap badge">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT badge">
 
-  ## Stats 📊
+  ## Stats 
 
 <table align="center">
   <tr style="border: none;">
@@ -86,7 +81,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my exciting proje
   </tr>
 </table>
 
-## My Contributions 🐍
+## My Contributions 
 
 <picture>
   <source
