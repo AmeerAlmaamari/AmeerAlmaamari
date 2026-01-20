@@ -1,6 +1,6 @@
 # Hi there! I'm Amir
 - Master's Student in Computer Science
-- Passionate about exploring and developing AI products
+- working and exploring different AI products
 - Enthusiast of startups, especially when it comes to tech ones!
 
 Welcome to my GitHub profile! Here you'll find a collection of my exciting projects, experiments, and contributions to the things I like. Dive in and explore my journey through the amazing world of IT. Feel free to connect and collaborate!
