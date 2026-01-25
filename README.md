@@ -1,9 +1,9 @@
-## Who am I
+## About Mw
 
-I'm a Founding Engineer @ [Awj R&D](https://awjrd.com) and an MSc Computer Science student focused on large language models, AI privacy, and applied ML. 
-I design and build LLM-based systems for real-world use, turning research ideas into reliable products. 
-I work at the intersection of research, engineering, and early-stage product development. 
-I have experience in startup environments where I can build from scratch, validate ideas quickly, and connect research with production systems. 
+- I'm a Founding Engineer @ [Awj R&D](https://awjrd.com) and an MSc Computer Science student focused on large language models, AI privacy, and applied ML. 
+- I design and build LLM-based systems for real-world use, turning research ideas into reliable products. 
+- I work at the intersection of research, engineering, and early-stage product development. 
+- I have experience in startup environments where I can build from scratch, validate ideas quickly, and connect research with production systems. 
 My current interests include Time-series forecasting, retrieval and reasoning, privacy-preserving AI.
 
 
