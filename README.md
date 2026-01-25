@@ -1,4 +1,4 @@
-## Who am I ?
+## Who am I
 
 I'm a Founding Engineer @ [Awj R&D](https://awjrd.com) and an MSc Computer Science student focused on large language models, AI privacy, and applied ML. 
 I design and build LLM-based systems for real-world use, turning research ideas into reliable products. 
