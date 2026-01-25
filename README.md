@@ -6,7 +6,6 @@ I work at the intersection of research, engineering, and early-stage product dev
 I have experience in startup environments where I can build from scratch, validate ideas quickly, and connect research with production systems. 
 My current interests include Time-series forecasting, retrieval and reasoning, privacy-preserving AI.
 
----
 
 ## Skills
 
@@ -22,7 +21,6 @@ My current interests include Time-series forecasting, retrieval and reasoning, p
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 
----
 
 ## What I am learning these days
 
@@ -30,7 +28,6 @@ My current interests include Time-series forecasting, retrieval and reasoning, p
 - Text-to-Speech systems using multilingual models (something like XTTS).
 - AI supply chain security, with a focus on model provenance and dataset integrity.
 
----
 
 ## Publications
 
@@ -43,7 +40,6 @@ My current interests include Time-series forecasting, retrieval and reasoning, p
 - A Comparative Analysis between baseline models and foundation models in Building Energy Forecasting
 - Fesability of Side-Channel-Attack using CNN Architecture
 
----
 
 ## Links
 - [LinkedIn](https://linkedin.com/in/a-almaamari)
