@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Founding Engineer at [Awj R&D](https://awjrd.com) and an MSc Computer Science student focused on large language models, AI privacy, and applied machine learning.
+I am an AI Engineer at [Awj R&D](https://awjrd.com) and an MSc Computer Science student focused on large language models, AI privacy, and applied machine learning.
 
 I design and build LLM-based systems for real-world use, turning research ideas into reliable products.
 
